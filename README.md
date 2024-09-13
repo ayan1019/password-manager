@@ -1,7 +1,7 @@
 
 # Password Manager  
 
-An applicatin build using python and tkinter to manage and save passwords.
+An application build using python and tkinter to manage and save passwords.
 
 
 ## Screenshots
